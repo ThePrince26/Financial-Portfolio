@@ -95,7 +95,7 @@ I worked on this project during 8 working days.
 
 I am currently participating in the Becode.org AI Bootcamp to upskill into a career in data analytics and data science. 
 I look forward to work on media, environmental, poltical and geo-strategic projects, for I have a wide interest in cinema, litterature, politics, geography, history and philosophy.
-That is why I am driven to provide valuable services for any private or governmental organization interested in my profile. 
+That is why I am driven to provide valuable services for any private company or governmental organization interested in my profile. 
 
 Feel free to follow/contact me on :
 
