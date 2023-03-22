@@ -75,28 +75,28 @@ With these results, we have the following insights ;
 
 ## Further Developments
 
-* Visualizing the % growth in Tableau
-* Creating more interactive graphs
-* Crafting a visually stunning dashboard
-* Performing more insights (What are the reasons behind British Petroleum's and General Electrics' underperformance ? Why has NextEra Energy risen so much ? What explains the big collapse and uptick on some stocks on some particular moments ?)
+* Visualize the % growth in Tableau
+* Create more interactive graphs
+* Craft a visually stunning dashboard
+* Perform deeper insights (What are the reasons behind British Petroleum's and General Electrics' underperformance ? Why has NextEra Energy risen so much ? What explains the big collapse and uptick on some stocks on some particular moments ?)
 
 
 ## Limitations
 
-* Scrapping more stocks to make more certain and accurate conclusions.
-* Crafting a more elaborate code to answer more complex questions.
-* Analysing stocks with more variables. 
+* Only 5 companies scrapped -> Need to get more data in order to make more definitive, accurate and general conclusions.
+* Need to write a more elaborate code & analyse stocks with more variables to answer more complex questions.
 
 
 ## Timeline
 
-I worked on this project for 8 working days. 
+I worked on this project during 8 working days. 
 
 
 ## Personal Situation
 
-I am currently participating in the Becode.org AI Bootcamp to upskill into a career in data analytics and data science and I look forward to work on media, environmental, poltical and geo-strategic projects. 
-I have a wide interest in cinema, litterature, politics and philosophy and I am excited to put my passions front and center and be of service for any private or governmental organization. 
+I am currently participating in the Becode.org AI Bootcamp to upskill into a career in data analytics and data science. 
+I look forward to work on media, environmental, poltical and geo-strategic projects, for I have a wide interest in cinema, litterature, politics and philosophy;
+That's why I am driven to put my passions front and center in order to provide valuable service for any private or governmental organization. 
 
 Feel free to follow/contact me on :
 
