@@ -3,15 +3,26 @@
 This project is a part of the Becode.org AI Bootcamp programme. My goal was to to create a dashboard with insights about 5 companies on the stock market based on scraped data provided in CSV format (see in the repo: data12.csv). The dashboard should be deployed with Public Tableau. The project is ended with presenting the data insights to the client.
 
 
+## Visuals
+
+![image](https://user-images.githubusercontent.com/119889349/226913357-3dbb0d1c-38f9-4c37-b898-0c28ff96ccff.png)
+
+URL link : https://public.tableau.com/app/profile/augustin.carbonnelle/viz/FinancialPortfolioDataAnalysis/FinancialPortfolio
+
+
 ## Description & Objectives
 
 In this project, I wanted to show how the various major events of our time - several financial, banking, energy and climate crises as well as waves of terrorist attacks and the worst pandemic in a century - impact energy companies on the financial markets. 
 
-I decided to focus on five energy companies: three large carbon companies (Exxon Mobil, Chevron and British Petroleum) and two renewable energy companies (General Electrics and NextEra Energy). To do this, I downloaded the financial data of these five companies and focused on two variables in particular : "Close" & "Volume" (see financial Lingo).
+I decided to focus on five energy companies.
 
-At first, I found it interesting to start my analysis on the day I was born (May 22, 1996) until today. I then created 5 graphs of these 5 companies on Tableau where we can visualize the evolution of the price of the shares as well as their trading volume over the last 26 years. 
+## Steps
 
-In a second step, after studying the graphs, I realized that there was a second analysis to be done, starting on September 1st 2000. In this second analysis, I calculated in Python the % price growth for each stock over the last 23 and a half years. I obtained interesting trends to help financial advisors inform their clients interested in investing in energy companies. 
+1) I picked three large carbon companies (Exxon Mobil, Chevron and British Petroleum) and two renewable energy companies (General Electrics and NextEra Energy). Then, I downloaded the financial data of these five companies with Python (see Financial_Portfolio.ipynb) and focused on two variables in particular : "Close" & "Volume" (see financial Lingo).
+
+2) I found it interesting to start my analysis from the day I was born (May 22, 1996) until today. I then created 5 graphs of these 5 companies on Tableau where we can visualize the evolution of the price of the shares as well as their trading volume over the last 26 years. 
+
+3) After studying the graphs, I realized that there was a second analysis to be done, starting on September 1st 2000. In this second analysis, I calculated in Python the % price growth for each stock over the last 23 and a half years. I obtained interesting trends to help financial advisors inform their clients interested in investing in energy companies. 
 
 
 ## Financial Lingo
@@ -31,24 +42,13 @@ In a financial dataframe, "Close" and "Volume" would typically be columns that c
 
 ##  Results & Insights
 
-British Petroleum (BP)
-
-The percentage change from the 1st of September 2000 to the 20th of March 2023 is -37.26%.
-
-Chevron (CVX)
-
-The percentage change from the 1st of September 2000 to the 20th of March 2023 is +259.75%.
-
-ExxonMobil (XOM)
-
-The percentage change from the 1st of September 2000 to the 20th of March 2023 is +145.76%.
-
-General Electrics (GE)
-
-The percentage change from the 1st of September 2000 to the 20th of March 2023 is -74.10%.
-
-NextEra Energy (NEE)
-The percentage change from the 1st of September 2000 to the 20th of March 2023 is +1008.80%.
+| Company           | Growth    |
+|-------------------|:---------:|
+| British Petroleum | -37.26%   |
+| Chevron           | +259.75%  |
+| ExxonMobil        | +145.76%  |
+| General Electrics | -74.10%   |
+| NextEra Energy    | +1008.80% |
 
 With these results, we have the following insights ;
 
@@ -70,11 +70,6 @@ With these results, we have the following insights ;
 * Scrapping more stocks to make more certain and accurate conclusions.
 * Crafting a more elaborate code to answer more complex questions.
 * Analysing stocks with more variables. 
-
-
-## Visuals
-
-![image](https://user-images.githubusercontent.com/119889349/226913357-3dbb0d1c-38f9-4c37-b898-0c28ff96ccff.png)
 
 
 ## Timeline
