@@ -1,5 +1,20 @@
 # Carbon VS Green : Which energy companies are the most profitable ? (BeCode Portfolio Optimization Challenge)
 
+## Table of Contents
+
+1. Summary
+2. Visuals
+3. Objectives 
+4. Steps
+5. Financial terms
+6. Results & Insights
+7. Further Developments
+8. Limitations
+9. Timeline
+10. Personal Situation
+
+
+## Summary
 This project is a part of the Becode.org AI Bootcamp programme. My goal was to to create a dashboard with insights about 5 companies on the stock market based on scraped data provided in CSV format (see in the repo: data12.csv). The dashboard should be deployed with Public Tableau. The project is ended with presenting the data insights to the client.
 
 
@@ -10,11 +25,12 @@ This project is a part of the Becode.org AI Bootcamp programme. My goal was to t
 URL link : https://public.tableau.com/app/profile/augustin.carbonnelle/viz/FinancialPortfolioDataAnalysis/FinancialPortfolio
 
 
-## Description & Objectives
+## Objectives
 
 In this project, I wanted to show how the various major events of our time - several financial, banking, energy and climate crises as well as waves of terrorist attacks and the worst pandemic in a century - impact energy companies on the financial markets. 
 
 I decided to focus on five energy companies.
+
 
 ## Steps
 
@@ -25,7 +41,7 @@ I decided to focus on five energy companies.
 3) After studying the graphs, I realized that there was a second analysis to be done, starting on September 1st 2000. In this second analysis, I calculated in Python the % price growth for each stock over the last 23 and a half years. I obtained interesting trends to help financial advisors inform their clients interested in investing in energy companies. 
 
 
-## Financial Lingo
+## Financial terms
 
 The understanding of two main financial metrics is important for this project.
 
