@@ -18,13 +18,6 @@
 This project is a part of the Becode.org AI Bootcamp programme. My goal was to to create a dashboard with insights about 5 companies on the stock market based on scraped data provided in CSV format (see in the repo: data12.csv). The dashboard should be deployed with Public Tableau. The project is ended with presenting the data insights to the client.
 
 
-## Visuals
-
-![image](https://user-images.githubusercontent.com/119889349/226913357-3dbb0d1c-38f9-4c37-b898-0c28ff96ccff.png)
-
-URL link : https://public.tableau.com/app/profile/augustin.carbonnelle/viz/FinancialPortfolioDataAnalysis/FinancialPortfolio
-
-
 ## Objectives
 
 In this project, I wanted to show how the various major events of our time - several financial, banking, energy and climate crises as well as waves of terrorist attacks and the worst pandemic in a century - impact energy companies on the financial markets. 
@@ -55,6 +48,12 @@ The understanding of two main financial metrics is important for this project.
 
 In a financial dataframe, "Close" and "Volume" would typically be columns that contain the closing price and trading volume data for each trading day, respectively. This data can be used for a variety of financial analysis purposes, such as technical analysis, trend analysis, and risk management.
 
+
+## Visuals
+
+![image](https://user-images.githubusercontent.com/119889349/226913357-3dbb0d1c-38f9-4c37-b898-0c28ff96ccff.png)
+
+URL link : https://public.tableau.com/app/profile/augustin.carbonnelle/viz/FinancialPortfolioDataAnalysis/FinancialPortfolio
 
 ##  Results & Insights
 
